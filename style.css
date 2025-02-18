@@ -60,7 +60,7 @@ body {
     padding: 50px 0px; /* Increased padding */
     box-sizing: border-box;
 }.logo-container {
-    width: 300px; /* Adjusted logo width */
+    width: 500px; /* Adjusted logo width */
     margin: 0;
 }.logo {
     display: block;
